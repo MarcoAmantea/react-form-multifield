@@ -1,0 +1,11 @@
+body{
+    background-image: url("../public/background-image.webp"); 
+    background-size: cover;   
+    font-family:"Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;;
+}
+img{
+    width: 100px;
+}
